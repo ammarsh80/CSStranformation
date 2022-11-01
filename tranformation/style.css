@@ -1,0 +1,9 @@
+img {
+    -webkit-mask-image: -webkit-gradient(radial,
+            50% 50%,
+            60,
+            50% 50%,
+            90,
+            from(#fff),
+            to(rgba(0, 0, 0, 0)));
+}
